@@ -1,18 +1,14 @@
 <h1 align="center">Olá Mundo</h1>
 
-<p align="center">Sou Thalis Antunes, desenvolvedor de software e QA com 6 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade. Moro em Florianópolis e atualmente trabalho como desenvolvedor autônomo, colaborando com diferentes projetos e empresas.
+<p align="center">Sou Thalis Antunes, profissional de Garantia da Qualidade com 4 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade. Moro em Porto Alegre - Rio Grande do Sul.
 
-Minha experiência combina desenvolvimento full stack — utilizando tecnologias como Node.js, React JS, React Native, Java (Spring / JSF), Django e Python — com atuação em garantia da qualidade de software, incluindo automação de testes (Cypress, Playwright, Robot Framework e BDD), testes manuais e análise de regras de negócio. Essa visão dos dois lados me permite contribuir de forma mais completa, seja desenvolvendo soluções, seja garantindo a qualidade do que é entregue.
+Minha experiência em QA inclui automação de testes (Cypress e Playwright), testes de api com Postman, testes manuais, análise de regras de negócio, criação de casos de teste, estruturação de processos e acompanhamento de entregas. Tenho vivência em shift left, ou seja, atuo em todo o ciclo de qualidade, desde o planejamento até a validação final antes do deploy em produção.
 
-No desenvolvimento, já atuei em todo o ciclo de vida do produto, desde a concepção até o deploy em produção: modelagem de banco de dados, criação de APIs, integração com front-end, estilização de interfaces, testes e publicação de aplicações em ambientes como AWS, App Store e Play Store.
+Tenho uma rotina constante de estudos e gosto de explorar novas ferramentas e abordagens para teste. Atualmente, estou aprofundando meus conhecimentos em automação de testes utilizando LLMs, testes de LLM e uso de MCPs para QA. Também estou estudando teste de performance e teste de segurança.
 
-Na área de QA, participei da estruturação de processos de testes, criação de casos de teste, automação e acompanhamento das entregas, sempre buscando garantir que o produto final atenda bem às expectativas técnicas e às necessidades do negócio.
+Possuo certificação SCRUM Fundamentals Certified (SFC) pela SCRUMstudy e sou formado em Engenharia de Software, com TCC voltado à evolução de software a partir da experiência do usuário — reforçando minha visão de que qualidade está diretamente ligada à satisfação de quem usa o produto.
 
-Tenho uma rotina constante de estudos e gosto de explorar novas tecnologias e ideias. Por isso, não é incomum que meus repositórios explorem diferentes áreas e ferramentas, já que acredito que experimentar e aprender continuamente é essencial para evoluir como profissional. Atualmente também estou aprofundando meus conhecimentos em DevOps, especialmente utilizando AWS, com foco em ambientes mais escaláveis, automatizados e eficientes.
-
-Possuo certificação SCRUM Fundamentals Certified (SFC) pela SCRUMstudy e formação em Engenharia de Software, com TCC voltado à evolução de software a partir da experiência do usuário.
-
-Gosto de trabalhar com clareza, colaboração e resolução prática de problemas, ajudando times e projetos a entregarem soluções que realmente funcionem.</p>
+Gosto de trabalhar com clareza, colaboração e resolução prática de problemas, ajudando times e projetos a entregarem soluções que realmente funcionem — com qualidade em primeiro lugar.</p>
 
 
 - 📝 Artigos
