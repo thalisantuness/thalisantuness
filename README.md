@@ -1,14 +1,18 @@
 <h1 align="center">Olá Mundo</h1>
 
-<p align="center">Sou Thalis Antunes, profissional de Garantia da Qualidade com 4 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade. Moro em Porto Alegre - Rio Grande do Sul.
+<p align="center">Sou Thalis Antunes, 27 anos, formando em Engenharia de Software, moro em Porto Alegre. Profissional de Garantia da Qualidade com 4 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade.
 
-Minha experiência em QA inclui automação de testes (Cypress e Playwright), testes de api com Postman, testes manuais, análise de regras de negócio, criação de casos de teste, estruturação de processos e acompanhamento de entregas. Tenho vivência em shift left, ou seja, atuo em todo o ciclo de qualidade, desde o planejamento até a validação final antes do deploy em produção.
+Versatilidade técnica: posso atuar em projetos com Cypress, Playwright, Selenium e Appium, além de automação de API com Python. Essa flexibilidade me permite escolher a melhor ferramenta para cada contexto, seja web, mobile ou back-end.
 
-Tenho uma rotina constante de estudos e gosto de explorar novas ferramentas e abordagens para teste. Atualmente, estou aprofundando meus conhecimentos em automação de testes utilizando LLMs, testes de LLM e uso de MCPs para QA. Também estou estudando teste de performance e teste de segurança.
+Diferencial prático: automatizei fluxos críticos em sistemas do MEC e FNDE, integrando testes a pipelines CI/CD (Bitbucket/Gitlab). Resolvi problemas de escala inviáveis manualmente, testando integrações complexas, microsserviços, processamento de planilhas com milhões de linhas e validações diretas em bancos de dados relacionais.
 
-Possuo certificação SCRUM Fundamentals Certified (SFC) pela SCRUMstudy e sou formado em Engenharia de Software, com TCC voltado à evolução de software a partir da experiência do usuário — reforçando minha visão de que qualidade está diretamente ligada à satisfação de quem usa o produto.
+Estruturação e liderança: elaborei centenas de cenários de teste no Jira, garanti 100% de cobertura manual em prazos apertados e estruturei suítes do zero. Reportei bugs com evidências ricas (requests capturadas, logs, vídeos) para deixar o caminho mastigado para os devs, acelerando correções. Fui referência para esclarecer regras de negócio, documentá-las no Confluence e tive atuação proativa em war rooms para desbloquear entregas críticas.
+Minha abordagem: tenho vivência em shift left, atuo em todo o ciclo de qualidade, desde o planejamento até a validação final antes do deploy. Rotina constante de estudos: atualmente aprofundando automação com LLMs, testes de LLM, uso de MCPs para QA, além de teste de performance e segurança.
 
-Gosto de trabalhar com clareza, colaboração e resolução prática de problemas, ajudando times e projetos a entregarem soluções que realmente funcionem — com qualidade em primeiro lugar.</p>
+Cursos recentes: Playwright com Python para Automação web, Cypress do Zero a Nuvem, Automação de Testes com Selenium, Java e Junit, Automação de Testes Mobile com Appium
+Certificação: SCRUM Fundamentals Certified (SFC). Sou formando em Engenharia de Software com TCC voltado à evolução de software a partir da experiência do usuário, qualidade ligada diretamente à satisfação de quem usa o produto.
+
+Gosto de clareza, colaboração e resolução prática de problemas. Entrei como Júnior e escalei até liderar times técnicos, mentorizando juniores e definindo processos de QA. Ajudo times e projetos a entregarem soluções que realmente funcionam com qualidade em primeiro lugar.</p>
 
 
 - 📝 Artigos
