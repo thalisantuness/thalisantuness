@@ -1,6 +1,6 @@
 <h1 align="center">Olá Mundo</h1>
 
-<p align="center">Sou Thalis Antunes, 27 anos, formando em Engenharia de Software, moro em Porto Alegre. Profissional de Garantia da Qualidade com 4 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade.
+<p>Sou Thalis Antunes, 27 anos, formando em Engenharia de Software, moro em Porto Alegre. Profissional de Garantia da Qualidade com 4 anos de experiência atuando na construção e evolução de produtos digitais, sempre com foco em entregas consistentes, bem estruturadas e com qualidade.
 
 Versatilidade técnica: posso atuar em projetos com Cypress, Playwright, Selenium e Appium, além de automação de API com Python. Essa flexibilidade me permite escolher a melhor ferramenta para cada contexto, seja web, mobile ou back-end.
 
